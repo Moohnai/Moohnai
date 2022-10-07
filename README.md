@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Moohnai
 - 👀 I’m interested in Machine learning.
-- 🌱 I’m currently learning how to apply deep learning on medical applications.
-- 💞️ I’m looking to collaborate on Medical projects using AI.
 - 📫 Reach me on my linkedIn and my email.
 
 <!---
